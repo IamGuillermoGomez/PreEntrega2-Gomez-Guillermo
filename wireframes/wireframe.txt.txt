@@ -1,7 +1,0 @@
-Desktop:
-
-https://www.figma.com/proto/WEDr3cOBJMgNML70UN6Nyu/FinanzApps?node-id=1-4237&p=f&t=5tF4yIGAuLStcFXd-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4237
-
-Mobile:
-
-https://www.figma.com/proto/WEDr3cOBJMgNML70UN6Nyu/FinanzApps?node-id=50-1012&p=f&t=cAmou5fFFGtpHqYn-1&scaling=scale-down&content-scaling=fixed&page-id=33%3A69&starting-point-node-id=40%3A986
